@@ -1,0 +1,192 @@
+
+Wiki.png	Help support Yugipedia by subscribing on Patreon! We'd love to go ad free and with enough patrons that dream can become a reality!
+If you are experiencing errors when attempting to log in, please clear your browser's cookies for Yugipedia and try again.
+Archetype
+From Yugipedia
+
+The name of this article is unofficial, or it uses unofficial terminology. It may change at any time as official terms are announced.
+"Spright Starter""Spright Jet"These two cards are both members of the "Spright" archetype, and both have effects that specifically interact with "Spright" cards.
+"Spright Starter"
+"Spright Starter""Spright Jet"These two cards are both members of the "Spright" archetype, and both have effects that specifically interact with "Spright" cards.
+"Spright Jet"
+These two cards are both members of the "Spright" archetype, and both have effects that specifically interact with "Spright" cards.
+Archetype is an unofficial term used by the Yu-Gi-Oh! TCG community to refer to groups of cards that share a card name substring, allowing them to interact with card effects specifying cards with that card name substring. The term originates from TCG promotional material, where it referred to themed groups of cards.[1][2][3] No known official term in any Yu-Gi-Oh card or video game describes the specific definition for "archetype" used by the TCG community, and no official source specifically defines "archetype" with the TCG community definition.
+
+An example of an archetype is "Wind-Up"; being an archetype, there are cards with the "Wind-Up" substring in their names (e.g. "Wind-Up Soldier"), and there are cards with card effects that specifically affect cards with the "Wind-Up" substring in their names (e.g. "Zenmailfunction").
+
+Typically (but not always), cards within an archetype all share a design theme across their artworks, card properties, and effects. Because archetype membership is based on card names, some cards are accidentally or incidentally included in an archetype that they are not thematically related to; for example, "Cipher Soldier" predates the "Cipher" archetype by nearly 16 years and has no synergy with the other members of the archetype.
+
+Groups of cards that are thematically related (e.g. share name substrings, designs, properties, and/or effects), but for which no card effect supports them as an archetype, are referred to as series.
+
+Contents
+1	Definition
+1.1	Official usage
+1.2	Common usage
+2	Effects that specify a common name substring
+2.1	Differences between language versions
+2.2	TCG
+2.3	Japanese OCG
+2.4	Korean OCG
+3	Anime and manga
+4	References
+Definition
+Official usage
+In promotional material, the term "theme" (in both English and Japanese) is often used to describe a group of cards who share a single aesthetic and gameplay theme, and can function as a single strategy (i.e. encompassing the common usage of both "archetype" and "series"). The term "series" is also often used for this purpose.
+
+On the Yu-Gi-Oh! Card Database, players can save decklists to the site, which can be tagged deck with various "categories". The list of possible categories includes almost every archetype and mostly does not include themes that are not archetypes (such as Egyptian God or Sacred Beast), but it does include Adventurer and Train.[4]
+
+The term "archetype" is not officially used in the rules of Yu-Gi-Oh! Trading Card Game; however, it has occasionally appeared in some marketing material, where it has been used consistently with both "theme" and the common usage.
+
+There is no official term in the rules of OCG/TCG that describes groups of cards that share a common effect-specified name substring.
+
+Common usage
+In common usage, an "archetype" is specifically defined as a group of cards that share a name substring specified in a card effect (or are treated a having that name substring due to an archetype condition), thereby allowing them to interact with that card effect.
+
+In the Yu-Gi-Oh! Official Card Game and official video games, these card effects are based on cards' Japanese names. In the TCG, due to cards being ruled based on their English language text,[5] these effects are ruled based on the cards' English language names and card texts instead; however, the Yu-Gi-Oh! Trading Card Game Card Database displays related cards for archetype-based effects based on their Japanese name in all languages.
+
+Effects that specify a common name substring
+In the Yu-Gi-Oh! card game, many card effects specify cards that contain a common name substring as the set of cards that they can interact with. Any card whose name contains the specified substring can be affected by these cards (assuming they meet the other specified requirements). Additionally, some cards have archetype conditions, which specify that the card counts as part of the archetype despite its name not including the corresponding substring.
+
+For example, "Skyscraper" can increase the ATK of an "Elemental HERO" monster; "Elemental HERO" monsters include "Elemental HERO Stratos", "Elemental HERO Shadow Mist", and "Elemental HERO Liquid Soldier". "Contrast HERO Chaos" is also treated as an "Elemental HERO" monster due to its archetype condition.
+
+Prior to the Simplified Effect Text revision in the TCG, and Starter Deck 2014 in the OCG, such effects were written as "contains "[XX]" in its card name" (Japanese: ○○と名のついた XX to na no tsuita) in card texts.
+
+Some common name substrings referenced in card text are exact matches of individual card names; for example, "Black Luster Soldier" is both an individual card as well as a common name substrings mentioned in card text (such as that of "Super Soldier Ritual"). This is not considered to be mentioning the card whose name is exactly the common name substring (for the purposes of effects that deal with mentioned card names, such as "Pre-Preparation of Rites").
+
+The earliest card to have this kind of effect in the TCG/OCG was "Destiny Board" (released in the Japanese version of Labyrinth of Nightmare on July 21, 2001 and in the TCG set of the same name on March 1, 2003), thereby making "Spirit Message" the very first archetype under the "common usage" definition.
+
+Differences between language versions
+Because archetypes are based on card names, often there are differences between languages as to which cards appear to belong to each archetype.
+
+In most cases, efforts are taken to ensure that these effects specify the same cards as they do in Japanese. This is typically achieved by using conditions (to include or exclude), renaming cards, or changing effects to cover archetypes that have been split into multiple archetypes (e.g. 「真竜」 was split into "True Draco" and "True King" in the TCG, and thus TCG versions of 「真竜」 support instead state that they support both "True Draco" and "True King"). Historically, this would often also include listing additional individual cards or excluding particular cards in the text of these effects, but this practice has been deprecated.
+
+In the TCG, cards are ruled based on their English language text, so if cards' English language names and text have not been aligned with the Japanese versions, these effects may affect different cards. For example, the English version of "Raviel, Lord of Phantasms - Shimmering Scraper" contains the English name string "Scrap", whereas the Japanese version of the card (「幻魔皇ラビエル－天界蹂躙拳」) does not contain the Japanese name of the "Scrap" archetype (「スクラップ」).
+
+TCG
+In the TCG, these effects are weakly case-sensitive: the capitalization of the first letter of words has no impact on support, but the capitalization of other letters does. If an entire word is capitalized (e.g. "HERO"), this determines whether or not a card is supported; if there is only a difference in the capitalization of the start of a word (e.g. "Gaia The Fierce Knight" vs "Gaia the Fierce Knight"; "sphinx" vs "Sphinx"), this does not affect archetype support.
+
+In European languages other than English, to account for grammatical inflections (such as number and gender) causing cards in the same archetype to not use the exact same letters in the name of the archetype in their card name, occasionally archetype support cards specify multiple inflections at once to clarify that all of those inflections are supported (e.g. "Mago(a)" in Portuguese and "Mago/a" in Spanish, to clarify masculine and feminine nouns; and „Antike/r/s Antrieb“ in German, to clarify masculine and neuter nouns). The French language print instead generally writes archetype support in more neutral ways that allow for gendered terms to be supported without needing to clarify both at once (e.g. "Corrompu" including both the masculine "Corrompu" and feminine "Corrompue"). The Italian language print, however, does not mention multiple inflections, instead writing name substrings in the singular masculine (unless all members are female, e.g. "Dragonzella", or the name is always plural, e.g. "I Cavalieri Fantasma"), without mentioning other inflections of the same words; cards using other inflections of the written archetype name are implicitly supported, without the need for the different inflections to be explicitly specified (e.g. "Signore Oscuro" is the supported name substring, but will still support "Signora Oscura Ixchel").
+
+Japanese OCG
+In the Japanese OCG, effects that specify name substrings take into account the Ruby text of the specified card name. A card specifying a name substring without a ruby text can interact with cards that either have the name substring as their base text, or as their ruby text.
+
+Example
+A card specifies that it affects "Red-Eyes" (レッドアイズ) cards. It can affect both "Red-Eyes Toon Dragon" (レッドアイズ・トゥーン・ドラゴン) and "Red-Eyes Black Dragon" (真紅眼の黒竜レッドアイズ・ブラックドラゴン).
+If the name substring specified by an effect in Japanese contains both a base text and a ruby text, a card's name must exactly match both for it to be affected.
+
+Example
+A card specifies that it affects "Morphtronic" (Ｄディフォーマー) cards. It can affect "Morphtronic Clocken" (Ｄディフォーマー・クロックン). However, it cannot affect "Destiny HERO - Blade Master" (Ｄ－ＨＥＲＯデステニーヒーロー ダガーガイ) despite its Japanese name containing 「Ｄ」, because its name does not include the ruby text 「ディフォーマー」.
+Korean OCG
+In the Korean OCG, in card text, any archetype name or card name that includes ruby text is formatted using parentheses in the format "base text(ruby text)" (no space). For example, "BF블랙 페더" Beullaek Pedeo is formatted as "BF(블랙 페더)".
+
+Anime and manga
+In the anime, manga, and even video games, characters often focus their deck around a single theme (or occasionally several themes). These themes often reflect the character's personality. Characters' themes are often archetypes in the anime or manga, or become archetypes when released in the OCG/TCG.
+
+In the Yu-Gi-Oh! manga, there are no effects based on substrings of card names, although some cards (such as "Magician's Circle") are worded similarly to modern archetype-based effects. Many cards and themes used by characters in the original Yu-Gi-Oh! manga have subsequently had archetypes built around them.
+
+In the Yu-Gi-Oh! anime, after archetypes were introduced to the OCG, several characters use cards that have effects based on substrings of card names, especially anime-original characters. Starting with the Yu-Gi-Oh! GX anime, almost all Duelists utilize Decks based around archetypes.
+
+References
+ Yu-Gi-Oh! TRADING CARD GAME (KONAMI Europe)
+ Yu-Gi-Oh! TRADING CARD GAME » Wotansday Night Matchup - Blackwings VS Nordic
+ Yu-Gi-Oh! DUEL LINKS GAIA GENESIS
+ "Deck Search (Deck List)". Yu-Gi-Oh! CARD DATABASE. Konami. Archived from the original on December 21, 2023. Retrieved January 2, 2024.
+ Official KDE-US Yu-Gi-Oh! TRADING CARD GAME Tournament Policy (PDF) (V.2.1 ed.). Konami Digital Entertainment, Inc. November 17, 2020. p. 62.
+vte
+Yu-Gi-Oh! TCG/OCG/Rush Duel gameplay and terminology
+Card layout	
+card features...RenamesErrata Simplified Effect TextProblem-Solving Card Text
+Statuses	
+Legal UnlimitedSemi-LimitedLimitedForbiddenIllegalFormat Speed DuelAdvancedTraditionalmore...Status lists...
+Card types	
+Monster CardSpell CardTrap Cardmore...
+Related	
+Series† Archetype†MentionsSupport Anti-support†????†∞†
+Game
+mechanics	
+General	
+LPCounterDamage Battle PiercingEffectHand size limitThree-card ruleSpell SpeedFace-downFace-upBattle position Attack PositionDefense PositionPublic knowledgeOriginalOwnerPossess ControlLoop Controlled loopInfinite loopRandomUnaffected
+Linked Co-linkedExtra LinkLink OriginPoints toMaximum ModeRD
+Duel	
+MatchDuelDRAWSurrenderSide DeckVictory condition
+Locations	
+Deck MainExtraFieldHandGraveyardBanishedAttached
+Zones	
+DeckExtra DeckMonster Main MonsterExtra MonsterSpell & TrapFieldPendulum
+Column
+Turns	
+CountPlayer
+Phase DrawStandbyMain 1 Main PhasesBattle Start StepBattle StepDamage Step Damage calculationEnd StepMain 2End
+Actions	
+LookReveal Pick up a card ExcavateAdd Draw Normal drawShuffle
+SummonSetFlipChange battle positionSendDiscardTributeDestroyBanishAttach DetachTransferEquip UnequipLeave the fieldReturn
+Activate TargetPayDeclareRespondNegate
+Attack DirectTargetReplayDouble†Battle
+Card text	
+Components	
+Cost Maintenance costTargetActivation conditionEffectConditionFlavor text
+Effects	
+Monster effects	
+ContinuousIgnitionQuickTrigger FlipUnclassified†Multi-ChoiceRD
+Spell/Trap effects	
+Continuous-like†Ignition-like†Quick-like†Trigger-like†Unclassified†
+Classifications	
+MandatoryOptionalLingering effects†Once per turn
+Conditions	
+Archetype†Archetype-exclusion†Level†Name†Rank†SummoningDuel winner†Match winner†
+Activation	
+Fast effect
+timing	
+Fast effectsGame statePriorityActionsSEGOCIf... You Can VS When... You Can
+Chains	
+Chain LinkRespondResolve
+Spell Speed	
+Spell Speed 1Spell Speed 2Spell Speed 3
+Summoning	
+Types	
+Normal SetTributeTribute SetFlipSpecial By own conditionFusionRitualSynchroXyzPendulumLinkMaximumRD
+Contact FusionTransformation†Double Tuning†Triple Tuning†Quadruple Tuning†Dark Synchro†Phantom Synchro†Accel Synchro† Delta†Limit Over†Xyz Evolution† Rank-Up†Rank-Down†Cross Xyz†Dimension†Unity†Overscale Pendulum†Transcendent Pendulum†Reincarnation Link†
+Mechanics	
+Material FusionSynchroXyzLinkNormal Summon MonsterSpecial Summon-only Nomi†Ignoring the Summoning conditions
+† Does not exist or is not official in the OCG or TCG
+RD Only exists in Yu-Gi-Oh! Rush Duel
+See also {{Card lists}} and {{Monsters and Monster Cards}}
+Categories: Articles with unofficial terminologyArchetypes
+Navigation menu
+Not logged inTalkContributionsCreate accountLog in
+PageDiscussionReadEditView historySearch
+Search Yugipedia
+Yugipedia
+Mobile site
+Help
+Random page
+Content
+GO RUSH!!
+Core boosters
+Historic card statuses
+Cards by property
+Video games
+Duel Links
+Master Duel
+Community
+Current events
+Recent changes
+New files
+Forum
+Discord
+Twitter
+Facebook
+Patreon
+Phabricator
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Browse properties
+This page was last edited on 16 November 2025, at 19:09.
+Content is available under Creative Commons Attribution Share Alike unless otherwise noted.
+Privacy policyAbout YugipediaDisclaimersDevelopersMobile view
+Creative Commons Attribution Share AlikePowered by MediaWikiPowered by Semantic MediaWiki
